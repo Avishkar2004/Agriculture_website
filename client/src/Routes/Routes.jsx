@@ -135,7 +135,6 @@ const AppRoutes = () => {
           }
         }}
       />
-
       {/* Footer rendered on all pages */}
       <Footer />
     </Router>
